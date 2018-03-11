@@ -1,0 +1,8 @@
+{
+  "name": "React Time Tracker",
+  "description": "This is a time tracking app powered by React, Express and mongoDB (with Mongoose ODM)",
+  "repository": "git+https://github.com/freesk/react-time-tracker.git",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
