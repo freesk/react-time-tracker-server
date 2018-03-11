@@ -9,8 +9,16 @@
   "scripts": {
     "start": "node index"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freesk/react-time-tracker-server.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freesk/react-time-tracker-server/issues"
+  },
+  "homepage": "https://github.com/freesk/react-time-tracker-server#readme",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.2",
