@@ -13,8 +13,7 @@ mongoose.set('debug', true);
 const userRoutes = require('./routes/user');
 const recordRoutes = require('./routes/record');
 
-const mongodbUri = 'mongodb://admin:1379513795@ds157528.mlab.com:57528/react-time-tracker';
-// const mongodbUri = 'mongodb://localhost:27017/react-time-tracker';
+const mongodbUri = 'mongodb://localhost:27017/react-time-tracker';
 
 mongoose.connect(mongodbUri);
 
